@@ -1,0 +1,40 @@
+{
+  "name": "todo_app_react_express_restful",
+  "version": "1.0.0",
+  "description": "Todo App Implement CRUD Operations Built With ReactJS Technology, Restful API NodeJs BackEnd Server -> Express, MongoDB Database -> Mongoose .",
+  "author": "Technology-Geek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Technology-Geek/Todo_App_React_Express_Restful"
+  },
+  "license": "MIT",
+  "proxy": "http://localhost:7000",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
