@@ -57,7 +57,7 @@ npm run dev
 
 ## Demo
 
-[Demo](https://github-todo-app-react-express-restful.herokuapp.com/)
+[Demo](https://gh-todo-app-restful.herokuapp.com/)
 
 ## Screenshot
 

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Todo App Implement CRUD Operations Built With ReactJS Technology, Restful API NodeJs BackEnd Server -> Express, MongoDB Database -> Mongoose .",
   "author": "Technology-Geek",
-  "homepage": "https://github-todo-app-react-express-restful.herokuapp.com/",
+  "homepage": "https://gh-todo-app-restful.herokuapp.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/Technology-Geek/Todo_App_React_Express_Restful"
